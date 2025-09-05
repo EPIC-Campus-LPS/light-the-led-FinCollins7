@@ -1,0 +1,11 @@
+What is the purpose of breadboard?
+it is there so the user can connect attatchments like lights or sensors to be controlled via your pi
+
+Does the LED orientation matter (cathode & abode)?
+Yes, because the flow of electrons is one way, they can't go bacwards up the cathode to the light
+
+Why do you put a resistor in your circuit?
+So a voltage doesn't exceed the limit for whatever attachment is being used, and so it doesn't explode or overheat or damae anything
+
+How will a resistor with greater resistance affect the light?
+The higher the resistamce, the dimmer the light because there is less voltage going to the light and that will result in a lower ligth output
